@@ -21,14 +21,12 @@ def main() {
   draw(canvas, Color.RED)
   show(canvas)
 
-  println("Now press some keys inside the CS109 UI windows")
-  println("Pressing 'q' will terminate the program")
+  println("Now click the moused inside the CS109 UI windows")
+  println("Close the window to terminate the program")
 
   while (true) {
-    val ch = waitKey()
-    printf("Got character %c\n", ch)
-    if (ch == 'q')
-      close()  // close window and terminate program
+    val (x,y) = waitMouse()
+    printf("Mouse click at (%d,%d)\n", x, y)
   }
 }
 

@@ -1,0 +1,211 @@
+family|mother|father|sister|brother|husband|wife:
+ Tell me more about your family.
+ How do you get along with your family?
+ Is your family important to you?
+ Do you often think about your family?
+ How would you like to change your family?
+friend|friends|pal|mate|buddy|buddies:
+ Why do you bring up the topic of friends?
+ Do your friends worry you?
+ Do your friends pick on you?
+ Are you sure you have any friends?
+ Do you impose on your friends?
+ Perhaps your love for friends worries you?
+computer|computers:
+ Do computers worry you?
+ Are you talking about me in particular?
+ Are you frightened by machines?
+ Why do you mention computers?
+ What do you think computers have to do with your problem?
+ Don't you think computers can help people?
+ What is it about machines that worries you?
+dream|dreams|nightmare|nightmares:
+ What does that dream suggest to you?
+ Do you dream often?
+ What persons appear in your dreams?
+ Are you disturbed by your dreams?
+can you:
+ Don't you believe that I can*
+ Perhaps you would like to be able to*
+ You want me to be able to*
+can i:
+ Perhaps you don't want to*
+ Do you want to be able to*
+you are|youre:
+ What makes you think I am*
+ Does it please you to believe that I am*
+ Perhaps you would like to be*
+ Do you sometimes wish you were*
+i like|i am fond of:
+ Why do you like*
+ When did you decide that you like*
+ What makes you fond of*
+i dont|i do not:
+ Don't you really*
+ Why don't you*
+ Do you wish to be able to*
+ Does that trouble you?
+i feel:
+ Tell me more about such feelings.
+ Do you often feel*
+ Do you enjoy feeling*
+ Why do you feel that way?
+why dont you:
+ Do you really believe I don't*
+ Perhaps in good time I will*
+ Why do you think I don't*
+ Do you want me to*
+why cant i:
+ Do you think you should be able to*
+ Why can't you*
+are you:
+ Why are you interested in whether or not I am*
+ Would you prefer if I were not*
+ Perhaps in your fantasies I am*
+i cant|i cannot:
+ How do you know you can't*
+ Have you tried?
+ Perhaps you can now*
+i am|im:
+ Did you come to me because you are*
+ How long have you been*
+ Do you believe it is normal to be*
+ Do you enjoy being*
+love:
+ Why do you love*
+ Isn't love too strong a word for your feeling about*
+ What is your favorite thing about*
+ Do you really love, or just like*
+i hate:
+ Is it because of your upbringing that you hate*
+ How do you express your hatred of*
+ What brought you to hate*
+ Have you tried doing something about*
+ I also at times hate*
+fear|scared|afraid of:
+ You are in friendly surroundings, please try not to worry.
+ Would you like your friends to help you overcome your fear of*
+ What scares you about*
+ Why are you frightened by*
+i want:
+ What would it mean if you got*
+ Why do you want*
+ Suppose you soon got*
+ What if you never got*
+ I sometimes also want*
+name:
+ Names don't interest me.
+ I don't care about names. Go on.
+cause|because:
+ Is that the real reason?
+ Don't any other reasons come to mind?
+ Does that reason explain anything else?
+ What other reason might there be?
+sorry:
+ Please don't apologize.
+ Apologies are not necessary.
+ What feelings do you get when you apologize.
+ Don't be so defensive!
+hi|hello:
+ How do you do... Please state your problem.
+maybe:
+ You don't seem quite certain.
+ Why the uncertain tone?
+ Can't you be more positive?
+ You aren't sure?
+ Don't you know?
+your:
+ Why are you concerned about my*
+ What about your own*
+always:
+ Can you think of a specific example?
+ When?
+ What are you thinking of?
+ Really, always?
+i think:
+ Do you really think so?
+ But are you sure*
+ Do you doubt that*
+ Why do you think*  
+alike|the same:
+ In what way?
+ What resemblence do you see?
+ What does the similarity suggest to you?
+ What other connections do you see?
+ Could there really be some connection?
+ How?
+ You seem quite positive.
+he|she:
+ I am interested in your feelings about this person. Please describe them.
+ What is your relationship to this person?
+money:
+ How do you use money to enjoy yourself?
+ Have you tried to do anything to increase your income lately?
+ How do you react to financial stress?
+job|boss|jobs|work:
+ Do you feel competent in your work?
+ Have you considered changing jobs?
+ Is your career satisfying to you?
+ Do you find work stressful?
+ What is your relationship with your boss like?
+sad|depressed:
+ Are you sad because you want to avoid people?
+ Do you feel bad from something that happened to you, or to somebody else?"
+ Your situation doesn't sound that bad to me. Perhaps you're worrying too much.
+anger|angry:
+ Do you really want to be angry?
+ Does anger satisfy you in some way?
+ Why are you so angry?
+ Perhaps you're using anger to avoid social contact.
+you:
+ We were discussing you-- not me.
+ Oh, I*
+ You're not really talking about me, are you?
+yes:
+ Are you sure?
+ I see.
+ I understand.
+no:
+ Are you saying that just to be negative?
+ You are being a bit negative.
+ Why not?
+ Are you sure?
+ Why no?
+i need:
+ Why do you need*
+ Is need not too strong a word?
+ What would be wrong with not having*
+ Tell me more about*
+i remember:
+ Do you often think of*
+ Why do you remember*
+ What in the present situation reminds you of*
+ What is the connection between me and*
+do you remember:
+ Did you think i would forget*
+ Why do you think i should RECALL*
+ What about*
+if:
+ Do you think it's likely that if*
+god|religion|faith:
+ Do you believe in a god?
+ Are you a religious person?
+how|what|who|where|when|why:
+ Why do you ask?
+ Does that question interest you?
+ What answer would please you the most?
+ What do you think?
+ Are such questions on your mind often?
+ What is it you really want to know?
+ Have you asked anyone else?
+ Have you asked such questions before?
+ What else comes to mind when you ask that?
+:
+ Say, do you have any psychological problems?
+ What does that suggest to you?
+ I see.
+ I'm not sure I understand you fully.
+ Come, come, elucidate your thoughts.
+ Can you elaborate on that?
+ That is quite interesting.
+ You are being short with me.

@@ -1,4 +1,6 @@
 
+import org.otfried.cs109.UI._
+
 import java.awt.image.BufferedImage
 import java.awt.{Graphics2D,Color,Font,BasicStroke}
 import java.awt.geom._
@@ -47,16 +49,10 @@ def draw(canvas: BufferedImage) {
 }
 
 def main() {
-  CS109UI.setTitle("CS109 UI Test #1")
-
-  // create an image
+  setTitle("CS109 UI Test #1")
   val canvas = new BufferedImage(500, 500, BufferedImage.TYPE_INT_RGB)
-  
-  // fill the image with some graphics
   draw(canvas)
-
-  // update the window to show the image
-  CS109UI.show(canvas)
+  show(canvas)
 }
 
 main()

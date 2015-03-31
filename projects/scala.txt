@@ -1,0 +1,16 @@
+In this course, I plan to use the Scala programming language.
+
+In my experience, students develop a style of programming in their
+first programming language. They find it difficult to learn a
+different style later, even if they switch to a different
+language. This means that students should start early to use a modern
+language that encourages writing clean and elegant code, and supports
+a good object-oriented and functional style.
+
+I therefore want to try using Scala this semester. Scala is not yet a
+popular or successful language (although I believe it will be), and so
+most students will have to learn C++ and/or Java later during
+their studies--but I believe that after getting programming practice
+in Scala, they will be able to write better code in those languages as
+well.
+

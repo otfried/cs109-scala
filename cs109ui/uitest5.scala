@@ -21,15 +21,16 @@ def main() {
   draw(canvas, Color.RED)
   show(canvas)
 
-  println("Now press some keys inside the CS109 UI windows")
-  println("Pressing 'q' will terminate the program")
+  println("You have 5 seconds to press a key inside the CS109 UI window")
 
-  while (true) {
-    val ch = waitKey()
-    printf("Got character %c\n", ch)
-    if (ch == 'q')
-      close()  // close window and terminate program
-  }
+  setTimeOut(5000)
+  val ch = waitKey()
+  if (ch == timeOutChar)
+    println("You lost!")
+  else
+    printf("You won by typing %c\n", ch)
+
+  close()  // close window and terminate program
 }
 
 main()
