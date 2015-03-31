@@ -13,16 +13,19 @@ Example code for my tutorial about Scala Swing
 at http://otfried.org/scala/gui.html.
 
 
-
 # examples
 
 General example code for my Scala documentation page
 at http://otfried.org/scala
 
 
-
 # tutorial
 
 Code snippets as used in my CS109 tutorials
 at http://otfried.org/courses/cs109/tutorial.html
+
+
+# projects
+
+Data files and starting code for CS109 projects.
 
