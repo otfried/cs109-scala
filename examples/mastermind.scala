@@ -2,6 +2,8 @@
 // Mastermind game
 // 
 
+import scala.io.StdIn.readLine
+
 val MaxNumGuesses = 10
 
 // Create secret: four distinct letters from A-F.

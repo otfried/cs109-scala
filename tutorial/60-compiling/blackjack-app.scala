@@ -2,6 +2,8 @@
 // BlackJack Game as a compiled application
 // --------------------------------------------------------------------
 
+import scala.io.StdIn.readLine
+
 class Card(val face: String, val suit: String) {
   override def toString: String = {
     val a = if (face == "Ace" || face == "8") "an " else "a "
