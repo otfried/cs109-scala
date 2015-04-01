@@ -23,10 +23,10 @@ def main() {
   var y = 30
   while (x < 500) {
     draw(canvas, x, y)
-    x += 5
-    y += 2
+    x += 2
+    y += 1
     show(canvas)
-    Thread.sleep(20)
+    Thread.sleep(10)
   }
 }
 

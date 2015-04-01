@@ -13,6 +13,7 @@ class Card(val face: String, val suit: String) {
                 "an " else "a "
     a + face + " of " + suit
   }
+
   def value: Int = face match {
     case "Ace" => 11
     case "Jack" => 10
