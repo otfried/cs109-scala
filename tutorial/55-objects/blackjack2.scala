@@ -8,11 +8,10 @@ class Card(val face: String, val suit: String) {
   require(Faces contains face)
 
   override def toString: String = {
-    val a = if (face == "Ace" ||
-                face == "8")
-                "an " else "a "
+    val a = if (face == "Ace" || face == "8") "an " else "a "
     a + face + " of " + suit
   }
+
   def value: Int = face match {
     case "Ace" => 11
     case "Jack" => 10

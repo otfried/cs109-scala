@@ -45,6 +45,7 @@ class Deck {
       cards(i-1) = cj
     }
   }
+
   def draw(): Card = {
     assert(count > 0)
     count -= 1

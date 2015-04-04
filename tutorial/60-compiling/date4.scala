@@ -18,7 +18,6 @@ class Date(val year: Int, val month: Int, val day: Int) {
   require(1 <= month && month <= 12)
   require(1 <= day && day <= Date.monthLength(month - 1))
   require(month != 2 || day <= 28 || (year % 4) == 0)
-
   
   // returns the number of days since 1901/01/01 (day 0)
   def dayIndex: Int = {
