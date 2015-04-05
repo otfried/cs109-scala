@@ -1,3 +1,4 @@
+import scala.io.StdIn.readInt
 
 object NumberGame {
   var secret = 0

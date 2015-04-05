@@ -14,7 +14,7 @@ object Days {
     val year = s.substring(0, 4).toInt
     val month = s.substring(5, 7).toInt
     val day = s.substring(8).toInt
-    new Date(year, month, day)
+    Date(year, month, day)
   }
 
   def main(args: Array[String]) {
