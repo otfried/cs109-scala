@@ -1,4 +1,6 @@
 
+import scala.io.StdIn.readLine
+
 val NRows = 5
 val NCols = 4
 val NSubrows = 3
