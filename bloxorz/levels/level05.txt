@@ -1,0 +1,17 @@
+-----------oooo
+-ooooaaoAooooSo
+-oooo-------ooo
+-ooBo
+-oooo
+---oooCobbooo
+----------ooooD
+ooo-------ooooo
+oToooccoooooo
+oooo
+%a
+%b
+%c
+#AOa
+#BO+c
+#CO-c
+#DOc

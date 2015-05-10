@@ -1,0 +1,7 @@
+oooo---o---oooo
+oSoo---o---ooAo
+ooooooooooooooo
+------oTo
+------ooo
+#AS 2 1 12 1
+

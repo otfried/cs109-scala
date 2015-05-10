@@ -1,0 +1,10 @@
+---------ooo
+---------ooo
+---------ooo
+oooooo---oooooo
+oSooAo---ooooTo
+oooooo---oooooo
+---------ooo
+---------ooo
+---------ooo
+#AS 10 1 10 7
