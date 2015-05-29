@@ -82,12 +82,12 @@ class PolynomialCheckSuite extends FunSuite {
     val X = new Polynomial(Array(0, 1))
     val p1 = (X - 1) * (X - 3) * ((X + 5)^2)
     /*
-     val q1 = p1.derivative
-     assert(q1.degree == 3)
-     assert(q1.toString == "X^3 + 6 * X^2 - 12 * X - 70")
-     val q2 = q1.derivative
-     assert(q2.degree == 2)
-     assert(q2.toString == "X^2 + 6 * X - 12")
+    val q1 = p1.derivative
+    assert(q1.degree == 3)
+    assert(q1.toString == "4 * X^3 + 18 * X^2 - 24 * X - 70")
+    val q2 = q1.derivative
+    assert(q2.degree == 2)
+    assert(q2.toString == "12 * X^2 + 36 * X - 24")
     */
   }
 }
